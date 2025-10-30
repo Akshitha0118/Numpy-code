@@ -1,23 +1,23 @@
 # Numpy-code 
-Task-12 on Numpy crash course 
+# Task-12 on Numpy crash course 
 -  In that i worked on some functions 
-           array()
-           zeros() ,
-           ones() , 
-           arange( )  
-           reshape() ,
-           np.random.rand() ,
-           np.random.randint()
+          - array()
+          - zeros() 
+          - ones()  
+          - arange()  
+          - reshape() 
+          - np.random.rand() 
+          - np.random.randint()
 -  indexing & slicing in Numpy 
 -  from Numpy documentation i worked on
-         sorting and concatination
-         ndim 
-         size
-         shape 
+        - sorting and concatination
+        - ndim 
+        - size
+        - shape 
 -   Operations on Numpy 
-         min()
-         max()
-         mean()
-         median()
+        - min()
+        - max()
+        - mean()
+        - median()
 -  Masking  
-          < , <=  , > , >=    
+         - < , <=  , > , >=    
